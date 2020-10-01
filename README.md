@@ -7,5 +7,5 @@
 - 🌱 I’m currently learning more about #rust, #haskell and #elixir
 - 📚 My first course on functional programming was on Scala, but now I prefer ML style typing
 - 📫 How to reach me: [email](giovanni.bonetti@gmail.com) or [LinkedIn](https://www.linkedin.com/in/giovanni-k-bonetti-2809345/)
-- 🤪 Fun fact: Besides English, I speak Portuguese, a decent amount of Italian, German, French, and Spanish, and also some Japanese
+- 🗣 Languages spoken: English, Portuguese, a decent amount of Italian, German, French, Spanish, and basic Japanese
 - 🇧🇷 🇮🇹 I am a citizen of both Brazil and Italy
