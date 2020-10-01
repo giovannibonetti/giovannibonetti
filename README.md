@@ -8,4 +8,4 @@
 - 📚 My first course on functional programming was on Scala, but now I prefer ML style typing
 - 📫 How to reach me: e-mail or linkedin
 - 🤪 Fun fact: Besides English, I speak Portuguese, a decent amount of Italian, German, French, and Spanish, and also some Japanese
-- 🇧🇷 🇮🇹 I have both Brazilian and Italian citizenship
+- 🇧🇷 🇮🇹 I am a citizen of both Brazil and Italy
