@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 I’m currently working as Chief Technological Officer (CTO) at [Calculo Juridico](https://calculojuridico.com.br/)
+- 💻 Currently working as Head of Engineering at [Cloudwalk, Inc.](https://www.cloudwalk.io/) :credit_card:
 - 💬 Ask me about software architecture, engineering, functional programming
 - 🌎 I'm very used to working with Google Cloud and AWS
 - 🐳 I have a few years of experience with Docker, and have worked also with K8S
