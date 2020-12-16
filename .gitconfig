@@ -1,0 +1,24 @@
+[commit]
+	gpgsign = true
+[gpg]
+	program = gpg2
+[user]
+	name = Giovanni Bonetti
+	email = giovanni.bonetti@gmail.com
+[pull]
+	rebase = true
+[core]
+	editor = vim
+[format]
+	pretty = %C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(blue)— %an%C(reset)%C(bold yellow)%d%C(reset)
+[alias]
+	graph-log = log --graph --all --abbrev-commit - date=relative
+	undo = reset --soft HEAD~1
+[github]
+	user = giovannibonetti
+[push]
+	default = current
+[gg]
+	username = giovannibonetti
+[advice]
+	detachedHead = false
