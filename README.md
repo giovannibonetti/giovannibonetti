@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 💻 [Currently working](https://github.com/giovanni-cloudwalk) as Head of Engineering at [Cloudwalk, Inc.](https://www.cloudwalk.io/) :credit_card:
+- 💻 Currently working as Senior Software Engineer at [CareMessage](https://www.linkedin.com/company/caremessage/) :hospital:
+- :credit_card: [Previously worked](https://github.com/giovanni-cloudwalk) as Head of Engineering at [Cloudwalk, Inc.](https://www.cloudwalk.io/) (Payment Acquirer)
 - 💬 Ask me about software architecture, engineering, functional programming
 - 🌎 I'm very used to working with Google Cloud and AWS
 - 🐳 I have a few years of experience with Docker, and have worked also with K8S
